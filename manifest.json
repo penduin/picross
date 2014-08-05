@@ -1,0 +1,22 @@
+{
+	"version": "1.2.6",
+	"name": "Picross",
+	"launch_path": "/index.html",
+	"description": "Picture crossword game",
+	"icons": {
+ 		"30": "/icon30.png",
+ 		"36": "/icon36.png",
+ 		"48": "/icon48.png",
+ 		"60": "/icon60.png",
+ 		"64": "/icon64.png",
+		"256": "/icon256.png"
+	},
+	"developer": {
+		"name": "penduinbits",
+		"url": "http://penduin.net"
+	},
+	"installs_allowed_from": [
+		""
+	],
+	"appcache_path": "/cache.manifest"
+}

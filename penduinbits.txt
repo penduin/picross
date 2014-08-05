@@ -1,0 +1,40 @@
+-----------------
+about PENDUINBITS
+-----------------
+
+Not that anyone would be fooled, but just to be clear, penduinbits is
+me.  One guy who likes Free software, likes to make toys, and whose
+single marketable skill is software programming.
+
+I use the handle "penduin", because it's a cool slight mispronounciation
+of "penguin", an oddball sort of animal to which I don't have any special
+connection, other than my fondness for Linux and all its GNU
+surroundings.  I use the name "penduinbits" in place of a company or
+organization where such identifiers are expected, and it's pretty
+accurate.  The stuff I create and/or show off and/or distribute and/or
+sell is going to be made of bits, most likely.  I can scribble some
+amusing pictures, but I'm no artist.  I can cobble together simple
+music, but I'm no musician.  I make bits.  I arrange digital information
+into bit patterns with which people can (I hope) have fun.
+
+
+-------------
+about Picross
+-------------
+
+For being a massively serial (and only slightly ashamed) Nintendo
+consumer,  I "earned" some free downloads, including a classic Game Boy
+game, "Mario's Picross".  I didn't create Picross and neither did
+Nintendo, but that was where I started loving the concept.  It struck me
+as the kind of thing that should exist on a phone or tablet, Enyo struck
+me as a good platform, and I struck me as the kind of person that could
+make it happen.  So I did.
+
+Most Picross implementations I've seen have used grids that were
+multiples of five.  Counting on fingers isn't as natural to me as using
+powers of two.  I'm a software engineer, that's what I swim in.  Plus,
+in early experiments, the Palm Pre screen fit an 8x8 puzzle perfectly,
+with anything bigger having cells that were too small to easily touch.
+This unusual size had the added advantage of forcing me to not copy
+puzzles I've seen elsewhere.  I might be lazy enough to lift the game's
+mechanics, but I'm not interested in plagarizing anybody else's Picross.

@@ -1,0 +1,38 @@
+{
+	"id": "net.penduin.picrossdemo",
+	"version": "1.2.6",
+	"vendor": "penduinbits",
+	"vendorurl": "http://penduin.net/bits",
+	"type": "web",
+	"main": "index.html",
+	"title": "Picross Demo",
+	"icon": "icon64.png",
+	"splashicon": "icon256.png",
+	"uiRevision": 2,
+
+	"keywords": [
+		"picross",
+		"nonogram",
+		"griddler",
+		"pic-a-pix",
+		"prismapixel",
+		"pixel",
+		"puzzle",
+		"cricipixel",
+		"edel",
+		"figurepic",
+		"grafilogika",
+		"hanjie",
+		"heroglyphix",
+		"illust-logic",
+		"kare",
+		"karala",
+		"logicolor",
+		"logik",
+		"logimage",
+		"obrazki",
+		"logiczne",
+		"oekaki",
+		"gobelini"
+	]
+}
